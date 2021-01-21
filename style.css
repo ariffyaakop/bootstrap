@@ -1,0 +1,15 @@
+h1 {
+    background-color: #ca1f1f;
+    color: yellow;
+    width: 7cm
+}   
+P {
+    background: green;
+}
+.nice{
+
+    font-weight: bold;
+}
+#nicer{
+    background-color:gray;
+}
